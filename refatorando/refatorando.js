@@ -1,5 +1,5 @@
 //Exercicio 1
-
+//Victor Hugo Fávaro Moreira RA:2503581
 // Refatore o seguinte trecho de código JS para torná-lo mais legível e eficiente. Além disso, aplique o princípio "Replace Temp with Query":
 
 // function calculateTotalpreco(products) {
@@ -21,7 +21,6 @@
 
 //     return total.toFixed(2);
 // }
-
 // Você deve refatorar o código acima, removendo as variáveis temporárias total, discount, e shippingCost, substituindo-as por consultas diretas. Certifique-se de manter a funcionalidade original do código.
 
 
